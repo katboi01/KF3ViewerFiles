@@ -193,6 +193,7 @@
 321,Cellval,セーバル,
 322,Serval,サーバル,
 323,Pig,ブタ,
+324,Peregrine Falcon,ハヤブサ,
 327,White Serval,ホワイトサーバル,
 333,Tasmanian Devil,タスマニアデビル,
 334,Blackbuck,ブラックバック,
@@ -251,6 +252,7 @@
 402,Goshingyusama,ゴシンギュウサマ,
 408,Tibetan Fox,チベットスナギツネ,【ブームの予感ですよ？】
 409,Manul,マヌルネコ,【ニャギっとスタイリッシュ】
+411,Eastern Quoll,フクロネコ,
 901,,,
 902,,,
 995,Tachikoma Standard,タチコマ type-S,
