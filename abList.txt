@@ -808,6 +808,12 @@ ch_0191_a_ear_mot.prefab
 ch_0191_a_mot.prefab
 ch_0191_a_tail.prefab
 ch_0191_a_tail_mot.prefab
+ch_0192_a.prefab
+ch_0192_a_ear.prefab
+ch_0192_a_ear_mot.prefab
+ch_0192_a_mot.prefab
+ch_0192_a_tail.prefab
+ch_0192_a_tail_mot.prefab
 ch_0193_a.prefab
 ch_0193_a_ear.prefab
 ch_0193_a_ear_mot.prefab
