@@ -1547,5 +1547,7 @@ ch_1022_a.prefab
 ch_1022_a_mot.prefab
 ch_1023_a.prefab
 ch_1023_a_mot.prefab
+ch_1025_a.prefab
+ch_1025_a_mot.prefab
 ch_8610_a.prefab
 ch_8610_a_mot.prefab
