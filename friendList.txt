@@ -179,7 +179,7 @@
 273,Passenger Pigeon,リョコウバト,
 275,Giant Otter,オオカワウソ,
 276,Secretarybird,ヘビクイワシ,
-277,Cacomistle,カコミスル,
+277,Ringtail,カコミスル,
 282,Greater Bird-of-Paradise,オオフウチョウ,
 284,Indian Wolf,インドオオカミ,
 290,Emerald Tree Boa,エメラルドツリーボア,
@@ -254,6 +254,9 @@
 408,Tibetan Fox,チベットスナギツネ,【ブームの予感ですよ？】
 409,Manul,マヌルネコ,【ニャギっとスタイリッシュ】
 411,Eastern Quoll,フクロネコ,
+420,Debirusama,でびるさま,
+421,Tasmanian Devil,タスマニアデビル,【こっわーい悪魔だぞぉ！】
+422,Australian Devil,オーストラリアデビル,【隻眼の悪魔†】
 901,,,
 902,,,
 995,Tachikoma Standard,タチコマ type-S,
