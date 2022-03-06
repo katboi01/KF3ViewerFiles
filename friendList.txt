@@ -146,6 +146,7 @@
 200,Adélie Penguin,アデリーペンギン,
 203,Blue Wildebeest,オグロヌー,
 204,Black Wildebeest,オジロヌー,
+205,Raiju,ライジュウ,
 207,Mountain Tapir,ヤマバク,
 217,African Penguin,ケープペンギン,
 218,Wolverine,クズリ,
@@ -251,9 +252,12 @@
 400,Tachikoma Heavy-armed,タチコマ type-H,
 401,Paraceratherium,パラケラテリウム,
 402,Goshingyusama,ゴシンギュウサマ,
+407,Bornean Orangutan,オランウータン,
 408,Tibetan Fox,チベットスナギツネ,【ブームの予感ですよ？】
 409,Manul,マヌルネコ,【ニャギっとスタイリッシュ】
 411,Eastern Quoll,フクロネコ,
+412,Rhinoceros Hornbill,ツノサイチョウ,
+413,Great Hornbill,オオサイチョウ,
 420,Debirusama,でびるさま,
 421,Tasmanian Devil,タスマニアデビル,【こっわーい悪魔だぞぉ！】
 422,Australian Devil,オーストラリアデビル,【隻眼の悪魔†】
