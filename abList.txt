@@ -671,6 +671,12 @@ ch_0143_a_ear_mot.prefab
 ch_0143_a_mot.prefab
 ch_0143_a_tail.prefab
 ch_0143_a_tail_mot.prefab
+ch_0145_a.prefab
+ch_0145_a_ear.prefab
+ch_0145_a_ear_mot.prefab
+ch_0145_a_mot.prefab
+ch_0145_a_tail.prefab
+ch_0145_a_tail_mot.prefab
 ch_0147_a.prefab
 ch_0147_a_ear.prefab
 ch_0147_a_ear_mot.prefab
