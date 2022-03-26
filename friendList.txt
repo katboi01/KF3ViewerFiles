@@ -151,6 +151,7 @@
 207,Mountain Tapir,ヤマバク,
 217,African Penguin,ケープペンギン,
 218,Wolverine,クズリ,
+219,,ラーテル,
 221,Salt-water Crocodile,イリエワニ,
 222,Shiserval Right,シーサーバル・ライト,
 223,Shiserval Lefty,シーサーバル・レフティ,
