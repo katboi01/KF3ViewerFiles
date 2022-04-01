@@ -735,6 +735,12 @@ ch_0161_a_ear_mot.prefab
 ch_0161_a_mot.prefab
 ch_0161_a_tail.prefab
 ch_0161_a_tail_mot.prefab
+ch_0162_a.prefab
+ch_0162_a_ear.prefab
+ch_0162_a_ear_mot.prefab
+ch_0162_a_mot.prefab
+ch_0162_a_tail.prefab
+ch_0162_a_tail_mot.prefab
 ch_0165_a.prefab
 ch_0165_a_ear.prefab
 ch_0165_a_ear_mot.prefab
@@ -894,6 +900,12 @@ ch_0218_a_ear_mot.prefab
 ch_0218_a_mot.prefab
 ch_0218_a_tail.prefab
 ch_0218_a_tail_mot.prefab
+ch_0219_a.prefab
+ch_0219_a_ear.prefab
+ch_0219_a_ear_mot.prefab
+ch_0219_a_mot.prefab
+ch_0219_a_tail.prefab
+ch_0219_a_tail_mot.prefab
 ch_0221_a.prefab
 ch_0221_a_mot.prefab
 ch_0221_a_tail.prefab
