@@ -439,6 +439,7 @@ ch_0082_a_ear_mot.prefab
 ch_0082_a_mot.prefab
 ch_0082_a_tail.prefab
 ch_0082_a_tail_mot.prefab
+ch_0082_z_ear.prefab
 ch_0083_a.prefab
 ch_0083_a_ear.prefab
 ch_0083_a_ear_mot.prefab

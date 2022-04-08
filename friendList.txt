@@ -125,6 +125,7 @@
 156,Bottlenose Dolphin,バンドウイルカ,
 158,Leopard,ヒョウ,
 161,Black Jaguar,ブラックジャガー,
+162,Polar Bear,ホッキョクグマ,
 165,Maltese Tiger,マルタタイガー,
 166,Mexico Salamander,メキシコサラマンダー,
 168,Yatagarasu,ヤタガラス,
