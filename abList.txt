@@ -891,6 +891,10 @@ ch_0207_a_ear_mot.prefab
 ch_0207_a_mot.prefab
 ch_0207_a_tail.prefab
 ch_0207_a_tail_mot.prefab
+ch_0210_a.prefab
+ch_0210_a_mot.prefab
+ch_0210_a_tail.prefab
+ch_0210_a_tail_mot.prefab
 ch_0217_a.prefab
 ch_0217_a_mot.prefab
 ch_0217_a_tail.prefab
